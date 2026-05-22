@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/seal.png" width="120"></p>
+
 # AMPAM Operations Manual
 ## Allodium Moroccan Praedium Ante Michigan
 
