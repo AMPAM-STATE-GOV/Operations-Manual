@@ -13,7 +13,6 @@ Official operations manual for AMPAM nationals, officials, and developers.
 - [Encounter Protocol](sections/encounter_protocol.md)
 - [Registration](sections/registration.md)
 - [Consular Notification](sections/consular_notification.md)
-- [Credential Card](sections/credential_card.md)
 - [Treaty Protections](sections/treaty_protections.md)
 - [Protected Status](sections/protected_status.md)
 - [Digital Identity](sections/digital_identity.md)
@@ -27,9 +26,6 @@ Official operations manual for AMPAM nationals, officials, and developers.
 - [Jus Cogens](sections/jus_cogens.md)
 - [Sovereign Immunity](sections/sovereign_immunity.md)
 - [Trust Indenture](sections/trust_indenture.md)
-- [System Overview](sections/system_overview.md)
-- [Interoperability](sections/interoperability.md)
-- [AI Governance](sections/ai_governance.md)
 
 ### For Officials
 - [Verification Guide](sections/verification.md)
@@ -38,11 +34,15 @@ Official operations manual for AMPAM nationals, officials, and developers.
 - [Consular Operations](sections/consular_ops.md)
 
 ### For Developers
+- [System Overview](sections/system_overview.md)
 - [API Reference](sections/api_reference.md)
 - [Database Schema](sections/schema.md)
+- [AI Governance](sections/ai_governance.md)
+- [Interoperability](sections/interoperability.md)
 - [Federation](sections/federation.md)
 
 ---
 
 *Without Recourse — All Rights Reserved — UCC 1-308*
-*Issuing Authority: Allodium Moroccan Praedium Ante Michigan*
+
+*Issuing Authority: Allodium Moroccan Praedium Ante Michigan — ICJ Case No. 11*
